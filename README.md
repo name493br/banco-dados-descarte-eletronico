@@ -18,3 +18,5 @@ Modelagem de banco de dados para a **Plataforma Digital de Descarte Sustentável
 | `agendamentos` | Registra os agendamentos de coleta domiciliar |
 
 ### Diagrama Entidade-Relacionamento (DER)
+
+usuarios (1) ←→ (N) agendamentos
