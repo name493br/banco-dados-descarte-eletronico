@@ -1,0 +1,25 @@
+
+### **5. ARQUIVO .gitignore RECOMENDADO**
+
+```gitignore
+# Arquivos sensíveis
+*.env
+*.key
+*.pem
+
+# Logs do MySQL
+*.log
+
+# Backup de bancos de dados
+*.sql.bak
+*.backup
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
